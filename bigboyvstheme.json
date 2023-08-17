@@ -1,13 +1,5 @@
 
 {
-  "publisher": "geazystan",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jackb7890/personal.git"
-  },
-  "keywords": ["blue", "orange", "theme", "jack", "jacksfavoritekeyword"],
-
-
   "name": "Femboy VS Theme - Fork",
   "type": "light",
   "semanticHighlighting": true,
